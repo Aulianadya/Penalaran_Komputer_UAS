@@ -1,0 +1,3 @@
+model,accuracy,total_queries
+Majority Vote,1.0,5
+Weighted Similarity,1.0,5
