@@ -22,6 +22,8 @@ Seluruh Eksperimen dijalankan pada lingkungan:
 Langkah Eksekusi: 
 1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS.git
 
-%cd Penalaran_Komputer_UAS
+   %cd Penalaran_Komputer_UAS
 
-2. running file : !python <nama_file.py>
+2. Instalasi requirements.txt : !pip install -r requirements.txt
+
+3. running file : !python <nama_file.py>
