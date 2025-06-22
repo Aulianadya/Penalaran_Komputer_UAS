@@ -11,13 +11,13 @@ Library yang dibutuhkan:
 scikit-learn, pandas, numpy, tqdm, transformers, torch
 
 Seluruh Eksperimen dijalankan pada lingkungan:
-Python : 3.11.313
-scikit-learn: 1.6.1
-pandas: 2.2.2
-numpy: 2.0.2
-torch: 2.6.0+cu124
-transformers: 4.52.4
-tqdm: 4.67.1
+1. Python : 3.11.313
+2. scikit-learn: 1.6.1
+3. pandas: 2.2.2
+4. numpy: 2.0.2
+5. torch: 2.6.0+cu124
+6. transformers: 4.52.4
+7. tqdm: 4.67.1
 
 Langkah Eksekusi: 
 1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS/tree/main
