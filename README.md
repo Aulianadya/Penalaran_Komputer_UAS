@@ -20,7 +20,7 @@ Seluruh Eksperimen dijalankan pada lingkungan:
 7. tqdm: 4.67.1
 
 Langkah Eksekusi: 
-1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS/tree/main
+1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS.git
 
 %cd Penalaran_Komputer_UAS
 
