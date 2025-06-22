@@ -20,10 +20,12 @@ Seluruh Eksperimen dijalankan pada lingkungan:
 7. tqdm: 4.67.1
 
 Langkah Eksekusi: 
-1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS.git
+1. Cloning proyek : !git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS.git
 
    %cd Penalaran_Komputer_UAS
 
 2. Instalasi requirements.txt : !pip install -r requirements.txt
 
 3. running file : !python <nama_file.py>
+
+   Contoh perintah : !python 03_retrieval.py
