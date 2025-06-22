@@ -20,5 +20,6 @@ transformers: 4.52.4
 tqdm: 4.67.1
 
 Langkah Eksekusi: 
-1. Cloning proyek : git clone <repository_url>
-cd <nama_folder>
+1. Cloning proyek : git clone https://github.com/Aulianadya/Penalaran_Komputer_UAS/tree/main
+cd Penalaran_Komputer_UAS
+2. running file : !python <nama_file.py>
